@@ -264,7 +264,7 @@
           <h2>About Us</h2>
           <p>At Cloud Miners, we are dedicated to revolutionizing the way individuals and businesses participate in
             cryptocurrency mining. Our commitment to transparency, efficiency, and innovation sets us apart in the
-            dynamic world of cloud mining.</p>
+            dynamic world of cloud mining. Changed Something in index page</p>
         </div>
 
         <div class="row gy-4">
